@@ -1,0 +1,133 @@
+# Tag name          ;  color
+Untagged            ; #c0c0c0
+VHF-172-173         ; #00aa00
+CB                  ; #ff0000
+VHF-77-81           ; #00aaff
+VHF-34              ; #00ffff
+UHF-448-449         ; #ffaaff
+UHF-442             ; #ffff00
+PMR                 ; #55ff7f
+
+# Frequency ; Name                     ; Modulation          ;  Bandwidth; Tags
+    26565000; CH41                     ; Narrow FM           ;      10000; CB
+    26575000; CH42                     ; Narrow FM           ;      10000; CB
+    26585000; CH43                     ; Narrow FM           ;      10000; CB
+    26595000; CH44                     ; Narrow FM           ;      10000; CB
+    26605000; CH45                     ; Narrow FM           ;      10000; CB
+    26615000; CH46                     ; Narrow FM           ;      10000; CB
+    26625000; CH47                     ; Narrow FM           ;      10000; CB
+    26635000; CH48                     ; Narrow FM           ;      10000; CB
+    26645000; CH49                     ; Narrow FM           ;      10000; CB
+    26655000; CH50                     ; Narrow FM           ;      10000; CB
+    26665000; CH51                     ; Narrow FM           ;      10000; CB
+    26675000; CH52                     ; Narrow FM           ;      10000; CB
+    26685000; CH53                     ; Narrow FM           ;      10000; CB
+    26695000; CH54                     ; Narrow FM           ;      10000; CB
+    26705000; CH55                     ; Narrow FM           ;      10000; CB
+    26715000; CH56                     ; Narrow FM           ;      10000; CB
+    26725000; CH57                     ; Narrow FM           ;      10000; CB
+    26735000; CH58                     ; Narrow FM           ;      10000; CB
+    26745000; CH59                     ; Narrow FM           ;      10000; CB
+    26755000; CH60                     ; Narrow FM           ;      10000; CB
+    26765000; CH61                     ; Narrow FM           ;      10000; CB
+    26775000; CH62                     ; Narrow FM           ;      10000; CB
+    26785000; CH63                     ; Narrow FM           ;      10000; CB
+    26795000; CH64                     ; Narrow FM           ;      10000; CB
+    26805000; CH65                     ; Narrow FM           ;      10000; CB
+    26815000; CH66                     ; Narrow FM           ;      10000; CB
+    26825000; CH67                     ; Narrow FM           ;      10000; CB
+    26835000; CH68                     ; Narrow FM           ;      10000; CB
+    26845000; CH69                     ; Narrow FM           ;      10000; CB
+    26855000; CH70                     ; Narrow FM           ;      10000; CB
+    26865000; CH71                     ; Narrow FM           ;      10000; CB
+    26875000; CH72                     ; Narrow FM           ;      10000; CB
+    26885000; CH73                     ; Narrow FM           ;      10000; CB
+    26895000; CH74                     ; Narrow FM           ;      10000; CB
+    26905000; CH75                     ; Narrow FM           ;      10000; CB
+    26915000; CH76                     ; Narrow FM           ;      10000; CB
+    26925000; CH77                     ; Narrow FM           ;      10000; CB
+    26935000; CH78                     ; Narrow FM           ;      10000; CB
+    26945000; CH79                     ; Narrow FM           ;      10000; CB
+    26955000; CH80                     ; Narrow FM           ;      10000; CB
+    26965000; CH01                     ; Narrow FM           ;      10000; CB
+    26975000; CH02                     ; Narrow FM           ;      10000; CB
+    26985000; CH03                     ; Narrow FM           ;      10000; CB
+    27005000; CH04                     ; Narrow FM           ;      10000; CB
+    27015000; CH05                     ; Narrow FM           ;      10000; CB
+    27025000; CH06                     ; Narrow FM           ;      10000; CB
+    27035000; CH07                     ; Narrow FM           ;      10000; CB
+    27055000; CH08                     ; Narrow FM           ;      10000; CB
+    27065000; CH09                     ; Narrow FM           ;      10000; CB
+    27075000; CH10                     ; Narrow FM           ;      10000; CB
+    27085000; CH11                     ; Narrow FM           ;      10000; CB
+    27105000; CH12                     ; Narrow FM           ;      10000; CB
+    27115000; CH13                     ; Narrow FM           ;      10000; CB
+    27125000; CH14                     ; Narrow FM           ;      10000; CB
+    27135000; CH15                     ; Narrow FM           ;      10000; CB
+    27155000; CH16                     ; Narrow FM           ;      10000; CB
+    27165000; CH17                     ; Narrow FM           ;      10000; CB
+    27175000; CH18                     ; Narrow FM           ;      10000; CB
+    27185000; CH19                     ; Narrow FM           ;      10000; CB
+    27205000; CH20                     ; Narrow FM           ;      10000; CB
+    27215000; CH21                     ; Narrow FM           ;      10000; CB
+    27225000; CH22                     ; Narrow FM           ;      10000; CB
+    27235000; CH24                     ; Narrow FM           ;      10000; CB
+    27245000; CH25                     ; Narrow FM           ;      10000; CB
+    27255000; CH23                     ; Narrow FM           ;      10000; CB
+    27265000; CH26                     ; Narrow FM           ;      10000; CB
+    27275000; CH27                     ; Narrow FM           ;      10000; CB
+    27285000; CH28                     ; Narrow FM           ;      10000; CB
+    27295000; CH29                     ; Narrow FM           ;      10000; CB
+    27305000; CH30                     ; Narrow FM           ;      10000; CB
+    27315000; CH31                     ; Narrow FM           ;      10000; CB
+    27325000; CH32                     ; Narrow FM           ;      10000; CB
+    27335000; CH33                     ; Narrow FM           ;      10000; CB
+    27345000; CH34                     ; Narrow FM           ;      10000; CB
+    27355000; CH35                     ; Narrow FM           ;      10000; CB
+    27365000; CH36                     ; Narrow FM           ;      10000; CB
+    27375000; CH37                     ; Narrow FM           ;      10000; CB
+    27385000; CH38                     ; Narrow FM           ;      10000; CB
+    27395000; CH39                     ; Narrow FM           ;      10000; CB
+    27405000; CH40                     ; Narrow FM           ;      10000; CB
+    34050000; 34,050 MHz               ; Narrow FM           ;      16000; VHF-34
+    34075000; 34,075 MHz               ; Narrow FM           ;      16000; VHF-34
+    34150000; 34,150 MHz               ; Narrow FM           ;      16000; VHF-34
+    34175000; 34,175 MHz               ; Narrow FM           ;      16000; VHF-34
+    77025000; 77,025 MHz               ; Narrow FM           ;      16000; VHF-77-81
+    77050000; 77,050 MHz               ; Narrow FM           ;      16000; VHF-77-81
+    77075000; 77,075 MHz               ; Narrow FM           ;      16000; VHF-77-81
+    77100000; 77,100 MHz               ; Narrow FM           ;      16000; VHF-77-81
+    77725000; 77,725 MHz               ; Narrow FM           ;      16000; VHF-77-81
+    78000000; 78,000 MHz               ; Narrow FM           ;      16000; VHF-77-81
+    81725000; 81,725 MHz               ; Narrow FM           ;      16000; VHF-77-81
+    81750000; 81,750 MHz               ; Narrow FM           ;      16000; VHF-77-81
+   172650000; 172,650 MHz              ; Narrow FM           ;      10000; VHF-172-173
+   172725000; 172,725 MHz              ; Narrow FM           ;      10000; VHF-172-173
+   172950000; 172,950 MHz              ; Narrow FM           ;      10000; VHF-172-173
+   172975000; 172,975 MHz              ; Narrow FM           ;      10000; VHF-172-173
+   173050000; 173,050 MHz              ; Narrow FM           ;      10000; VHF-172-173
+   442200000; 442,200 MHz              ; Narrow FM           ;      16000; UHF-442
+   442225000; 442,225 MHz              ; Narrow FM           ;      16000; UHF-442
+   442250000; 442,250 MHz              ; Narrow FM           ;      16000; UHF-442
+   442275000; 442,275 MHz              ; Narrow FM           ;      16000; UHF-442
+   446006250; CH01                     ; Narrow FM           ;      12500; PMR
+   446018750; CH02                     ; Narrow FM           ;      12500; PMR
+   446031250; CH03                     ; Narrow FM           ;      12500; PMR
+   446043750; CH04                     ; Narrow FM           ;      12500; PMR
+   446056250; CH05                     ; Narrow FM           ;      12500; PMR
+   446068750; CH06                     ; Narrow FM           ;      12500; PMR
+   446081250; CH07                     ; Narrow FM           ;      12500; PMR
+   446093750; CH08                     ; Narrow FM           ;      12500; PMR
+   446106250; CH09                     ; Narrow FM           ;      12500; PMR
+   446118750; CH10                     ; Narrow FM           ;      12500; PMR
+   446131250; CH11                     ; Narrow FM           ;      12500; PMR
+   446143750; CH12                     ; Narrow FM           ;      12500; PMR
+   446156250; CH13                     ; Narrow FM           ;      12500; PMR
+   446168750; CH14                     ; Narrow FM           ;      12500; PMR
+   446181250; CH15                     ; Narrow FM           ;      12500; PMR
+   446193750; CH16                     ; Narrow FM           ;      12500; PMR
+   448490000; 448,49 MHz               ; Narrow FM           ;      14000; UHF-448-449
+   448570000; 448,57 MHz               ; Narrow FM           ;      14000; UHF-448-449
+   448610000; 448,61 MHz               ; Narrow FM           ;      14000; UHF-448-449
+   449770000; 449,77 MHz               ; Narrow FM           ;      14000; UHF-448-449
+   449810000; 449,81 MHz               ; Narrow FM           ;      14000; UHF-448-449
